@@ -1,7 +1,0 @@
-{
-  "name": "IBeansAndroid",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
